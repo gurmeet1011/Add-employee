@@ -33,6 +33,12 @@ input[type="number"] {
     margin-left:5px;
     border-radius:3px;
 }
+#heading{
+    margin-left:5px;
+}
+#employeesList{
+    margin-left:7px;
+}
 .employee-item{
     display:flex;
     align-item:center;
